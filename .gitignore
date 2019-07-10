@@ -1,0 +1,16 @@
+web/dist/
+web/.sass-cache/
+web/node_modules/
+web/src/includes/db-connect.php
+machine_learning/decision_trees/*
+machine_learning/auc_curves/*
+machine_learning/pickles/*
+machine_learning/db_connect.py
+machine_learning/db_connect.pyc
+web/npm-debug.log
+web/package-lock.json
+import/*
+machine_learning/pancreas/
+sql/parse_pancreas_dataset.sql
+sql/create_pancreas_dataset.sql
+export/*
