@@ -6,7 +6,7 @@ machine_learning/decision_trees/*
 machine_learning/auc_curves/*
 machine_learning/pickles/*
 machine_learning/db_connect.py
-machine_learning/db_connect.pyc
+machine_learning/*.pyc
 web/npm-debug.log
 web/package-lock.json
 import/*
